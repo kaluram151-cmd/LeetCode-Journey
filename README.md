@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0050-powx-n](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
