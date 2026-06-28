@@ -31,7 +31,6 @@ public:
         ListNode* temp = head;
         ListNode* prevNode = nullptr;
         ListNode* newNode = temp;
-        int group = 0;
         while(temp)
         {
             int count = 1;
@@ -47,10 +46,9 @@ public:
                 break;
             }
             newNode = KthNode->next;
-            group++;
             KthNode->next = nullptr;
             ListNode* newHead = reverse(temp);
-            if(group==1)
+            if(prevNode==NULL)
             {
                 head = newHead;
             }
