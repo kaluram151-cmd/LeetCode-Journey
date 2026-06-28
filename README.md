@@ -32,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0090-subsets-ii) |
 | [0283-move-zeroes](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0283-move-zeroes) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
