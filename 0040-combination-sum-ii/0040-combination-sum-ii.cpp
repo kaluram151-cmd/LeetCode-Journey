@@ -4,7 +4,7 @@ public:
     {
         if(target==0)
         {
-            ans.push_back({combine});
+            ans.push_back(combine);
             return ;
         }
         if(target<0 || idx==nums.size() )
