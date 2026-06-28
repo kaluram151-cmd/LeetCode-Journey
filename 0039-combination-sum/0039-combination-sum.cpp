@@ -3,11 +3,6 @@ public:
     set<vector<int>> s;
     void helper(vector<int>& nums,int idx,int target, vector<int>& combin , vector<vector<int>>& ans)
     {
-        if(idx==nums.size())
-        {
-            return ;
-        }
-        if(target<0) return ;
         if(target==0)
         {
             if(s.find(combin)!=s.end())
@@ -20,6 +15,10 @@ public:
                 s.insert(combin);
                 return ;
             }
+        }
+        if( target<0|| idx==nums.size())
+        {
+            return ;
         }
         combin.push_back(nums[idx]);
         helper(nums,idx,target-nums[idx],combin,ans);
