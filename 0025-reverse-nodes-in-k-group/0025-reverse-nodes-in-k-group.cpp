@@ -43,7 +43,7 @@ public:
             }
             if(count!=k)
             {
-                prevNode->next = temp;
+                if(prevNode!=NULL) prevNode->next = temp;
                 break;
             }
             newNode = KthNode->next;
