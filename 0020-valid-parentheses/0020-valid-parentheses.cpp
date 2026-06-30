@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool isValid(string s) {
+    bool isValid(string& s) {
         if(s.size()%2!=0)
         {
             return false;
