@@ -56,4 +56,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
