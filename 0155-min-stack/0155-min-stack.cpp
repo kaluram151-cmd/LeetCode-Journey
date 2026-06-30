@@ -23,7 +23,7 @@ private:
             else
             {
                 long long val = value;
-                long long newvalue = 2*val-min;
+                long long newvalue = 2LL*val-min;
                 st.push(newvalue);
                 min = value;
             }
@@ -37,7 +37,7 @@ private:
         st.pop();
         if(n<min)
         {
-            min = 2*min-n;
+            min = 2LL*min-n;
         }
     }
     
