@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0503-next-greater-element-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -82,4 +84,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
