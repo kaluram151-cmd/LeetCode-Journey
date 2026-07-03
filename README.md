@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0090-subsets-ii) |
+| [0189-rotate-array](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
