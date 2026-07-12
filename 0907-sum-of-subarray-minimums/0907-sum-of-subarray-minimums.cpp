@@ -16,6 +16,10 @@ public:
             {
                 ans[i] = st.top();
             }
+            else
+            {
+                
+            }
             st.push(i);
         }
         
