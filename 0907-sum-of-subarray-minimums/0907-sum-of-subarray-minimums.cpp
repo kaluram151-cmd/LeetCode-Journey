@@ -4,11 +4,11 @@ public:
     vector<int> nsee(vector<int>& arr)
     {
         int n = arr.size();
+        stack<int> st;
         vector<int> ans(n,n);
-        stack<int>st;
         for(int i = n-1;i>=0;i--)
         {
-            while(!st.empty() && arr[st.top()] >= arr[i])
+            while(!st.empty() && arr[st.top()]>=arr[i])
             {
                 st.pop();
             }
@@ -16,20 +16,15 @@ public:
             {
                 ans[i] = st.top();
             }
-            else
-            {
-                
-            }
             st.push(i);
         }
-        
         return ans;
     }
     vector<int> psee(vector<int>& arr)
     {
         int n = arr.size();
+        stack<int> st;
         vector<int> ans(n,-1);
-        stack<int>st;
         for(int i = 0;i<n;i++)
         {
             while(!st.empty() && arr[st.top()] > arr[i])
@@ -45,15 +40,16 @@ public:
         return ans;
     }
     int sumSubarrayMins(vector<int>& arr) {
-        vector<int> nse = nsee(arr);
+        int n = arr.size();
         vector<int> pse = psee(arr);
-        long long ans = 0;
-        for(int i = 0;i<arr.size();i++)
+        vector<int> nse = nsee(arr);
+        int sum = 0;
+        for(int i = 0;i<n;i++)
         {
             long long x = 1LL*(nse[i]-i);
             long long y = 1LL*(i-pse[i]);
-            ans = (ans+(x*y*arr[i])%mod)%mod;
+            sum = (sum+(1LL*(x*y*arr[i]))%mod)%mod;
         }
-        return ans;
+        return sum;
     }
 };
