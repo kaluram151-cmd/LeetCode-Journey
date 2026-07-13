@@ -7,14 +7,14 @@ public:
             return 0;
         }
         long long sum = 0;
-        for(int i = 0;i<n;i++)
+        for(int i = 0; i<n;i++)
         {
-            long long x = (long long)nums[i];
-            long long y = (long long)nums[i];
+            long long x = nums[i];
+            long long y = nums[i];
             for(int j = i+1;j<n;j++)
             {
-                x = max<long long>(nums[j],x);
-                y = min<long long>(nums[j],y);
+                x = max<long long>(nums[j], x);
+                y = min<long long>(nums[j], y);
                 sum += x-y;
             }
         }
