@@ -1,11 +1,11 @@
 class Solution {
 public:
     int trap(vector<int>& arr) {
-        int total = 0;
         int lmax = 0;
         int rmax = 0;
         int l = 0;
         int r = arr.size()-1;
+        int total = 0;
         while(l<r)
         {
             if(arr[l]<=arr[r])
@@ -16,7 +16,7 @@ public:
                 }
                 else
                 {
-                    lmax = arr[l];
+                    lmax  = arr[l];
                 }
                 l++;
             }
@@ -31,7 +31,6 @@ public:
                     rmax = arr[r];
                 }
                 r--;
-                
             }
         }
         return total;
