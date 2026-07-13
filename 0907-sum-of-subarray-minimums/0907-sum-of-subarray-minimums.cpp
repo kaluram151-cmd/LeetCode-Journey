@@ -48,7 +48,7 @@ public:
         {
             long long x = 1LL*(nse[i]-i);
             long long y = 1LL*(i-pse[i]);
-            sum = (sum+(1LL*(x*y*arr[i]))%mod)%mod;
+            sum = (sum+((x*y*arr[i]))%mod)%mod;
         }
         return sum;
     }
