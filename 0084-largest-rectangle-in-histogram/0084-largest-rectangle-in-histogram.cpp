@@ -17,11 +17,10 @@ public:
         }
         while(!st.empty())
         {
-            int nse = n;
             int element = st.top();
             st.pop();
             int pse = st.empty() ? -1 : st.top();
-            maxArea = max(maxArea, (nse-pse-1)*arr[element]);
+            maxArea = max(maxArea, (n-pse-1)*arr[element]);
         }
         return maxArea;
     }
