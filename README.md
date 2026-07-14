@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 ## Linked List
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
