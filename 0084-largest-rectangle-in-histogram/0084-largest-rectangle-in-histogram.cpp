@@ -35,7 +35,7 @@ public:
         stack<int> st;
         for(int i = n-1;i>=0;i--)
         {
-            while(!st.empty() && arr[st.top()] > arr[i])
+            while(!st.empty() && arr[st.top()] >= arr[i])
             {
                 st.pop();
             }
