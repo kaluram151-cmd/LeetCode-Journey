@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
@@ -149,4 +151,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
