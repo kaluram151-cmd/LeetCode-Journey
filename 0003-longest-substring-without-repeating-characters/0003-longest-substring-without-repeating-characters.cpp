@@ -17,7 +17,6 @@ public:
             {
                 l = max(l,hash[s[r]]+1);
             }
-            
             int len = r-l+1;
             maxlen = max(maxlen,len);
             hash[s[r]] = r;
