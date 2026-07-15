@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0402-remove-k-digits) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
