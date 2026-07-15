@@ -15,20 +15,12 @@ public:
         {
             if(hash[s[r]]!=-1)
             {
-                int x = l;
-                if(hash[s[r]]<=r)
-                {
-                 l = hash[s[r]]+1;
-                }
-                while(x<l)
-                {
-                    hash[s[x]] = -1;
-                    x++;
-                }
+                l = max(l,hash[s[r]]+1);
             }
-            hash[s[r]] = r;
+            
             int len = r-l+1;
             maxlen = max(maxlen,len);
+            hash[s[r]] = r;
             r++;
         }
         return maxlen;
