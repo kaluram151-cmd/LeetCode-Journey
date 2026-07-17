@@ -11,14 +11,14 @@ public:
         {
             freq[s[r]-'A']++;
             maxfreq = max(maxfreq, freq[s[r]-'A']);
-            while((r-l+1)-maxfreq>k)
+            if((r-l+1)-maxfreq>k)
             {
                 freq[s[l]-'A']--;
                 maxfreq = 0;
-                for(int i = 0;i<26;i++)
-                {
-                    maxfreq = max(maxfreq, freq[i]);
-                }
+                // for(int i = 0;i<26;i++)
+                // {
+                //     maxfreq = max(maxfreq, freq[i]);
+                // }
                 l++;
             }
             if((r-l+1)-maxfreq<=k)
