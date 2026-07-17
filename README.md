@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0169-majority-element) |
+| [0424-longest-repeating-character-replacement](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0904-fruit-into-baskets) |
 ## Linked List
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
