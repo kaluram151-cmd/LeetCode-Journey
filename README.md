@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/1248-count-number-of-nice-subarrays) |
 ## Linked List
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0050-powx-n](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0189-rotate-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/1248-count-number-of-nice-subarrays) |
 ## Recursion
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0907-sum-of-subarray-minimums](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [2104-sum-of-subarray-ranges](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/2104-sum-of-subarray-ranges) |
 ## Backtracking
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/1248-count-number-of-nice-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -186,4 +190,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
