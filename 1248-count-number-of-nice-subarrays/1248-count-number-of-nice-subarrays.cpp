@@ -10,10 +10,10 @@ public:
         int count = 0;
         while(r<nums.size())
         {
-            sum += nums[r];
+            sum += (nums[r]%2);
             while(sum>goal)
             {
-                sum -= nums[l];
+                sum -= (nums[l]%2);
                 l = l+1;
             }
             count += (r-l+1);
@@ -22,17 +22,17 @@ public:
         return count;
     }
     int numberOfSubarrays(vector<int>& nums, int k) {
-        for(int i = 0;i<nums.size();i++)
-        {
-            if(nums[i]%2==0)
-            {
-                nums[i] = 0;
-            }
-            else
-            {
-                nums[i] = 1;
-            }
-        }
+        // for(int i = 0;i<nums.size();i++)
+        // {
+        //     if(nums[i]%2==0)
+        //     {
+        //         nums[i] = 0;
+        //     }
+        //     else
+        //     {
+        //         nums[i] = 1;
+        //     }
+        // }
         return atmost(nums,k)-atmost(nums,k-1);
     }
 };
