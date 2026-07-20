@@ -11,13 +11,9 @@ public:
         {
             if(child[r]<=cookies[l])
             {
-                l++;
                 r++;
             }
-            else
-            {
-                l++;
-            }
+            l++;
         }
         return r;
     }
