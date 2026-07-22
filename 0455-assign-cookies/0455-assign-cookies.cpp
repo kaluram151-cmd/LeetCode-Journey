@@ -7,14 +7,14 @@ public:
         int r = 0;
         int n = g.size();
         int m = s.size();
-        while(l<m && r<n)
+        while(l<n && r<m)
         {
-            if(g[r]<=s[l])
+            if(g[l]<=s[r])
             {
-                r++;
+                l++;
             }
-            l++;
+            r++;
         }
-        return r;
+        return l;
     }
 };
