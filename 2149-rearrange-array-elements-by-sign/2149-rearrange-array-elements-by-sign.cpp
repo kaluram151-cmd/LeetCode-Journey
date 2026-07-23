@@ -8,19 +8,13 @@ public:
         {
             if(x>=0)
             {
-                if(pos<nums.size())
-                {
-                    ans[pos] = x;
-                    pos +=2;
-                }
+                ans[pos] = x;
+                pos +=2;
             }
             else
             {
-                if(neg<nums.size())
-                {
-                    ans[neg] = x;
-                    neg += 2;
-                }
+                ans[neg] = x;
+                neg += 2;
             }
         }
         return ans;
