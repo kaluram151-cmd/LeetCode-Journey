@@ -3,19 +3,16 @@ public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         sort(intervals.begin(),intervals.end());
         vector<vector<int>> res;
-        int i = 0;
-        int n = intervals.size();
-        while(i<n)
+        for(auto& val:intervals)
         {
-            int res0 = intervals[i][0];
-            int res1 = intervals[i][1];
-            i++;
-            while(i<n && intervals[i][0]<=res1)
+            if(res.empty() || res.back()[1]<val[0])
             {
-                res1 = max(res1,intervals[i][1]);
-                i++;
+                res.push_back({val[0],val[1]});
             }
-            res.push_back({res0,res1});            
+            else
+            {
+                res.back()[1] = max(res.back()[1],val[1]);
+            }
         }
         return res;
     }
