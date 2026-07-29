@@ -10,27 +10,32 @@
  * };
  */
 class Solution {
-public:
-    int findHi(TreeNode* root)
+private:
+    int length(TreeNode* root)
     {
-        if(root==NULL) return 0;
-        int lh = findHi(root->left);
-        int rh = findHi(root->right);
-
+        if(root==NULL)
+        {
+            return 0;
+        }
+        int lh = length(root->left);
+        int rh = length(root->right);
         return 1+max(lh,rh);
     }
+public:
     bool isBalanced(TreeNode* root) {
         if(root==NULL) return true;
-        int lh = findHi(root->left);
-        int rh = findHi(root->right);
-        if((abs(lh-rh)>1))
+        int lh = length(root->left);
+        int rh = length(root->right);
+        if(abs(rh-lh)>1)
         {
             return false;
         }
-        bool left = isBalanced(root->left);
-        bool right = isBalanced(root->right);
-
-        if(left==false || right==false) return false;
+        bool b1 = isBalanced(root->left);
+        bool b2 = isBalanced(root->right);
+        if(b1==false||b2==false)
+        {
+            return false;
+        }
         return true;
     }
 };
