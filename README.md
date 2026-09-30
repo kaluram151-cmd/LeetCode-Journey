@@ -285,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/kaluram151-cmd/LeetCode-Journey/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
